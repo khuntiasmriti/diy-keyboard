@@ -57,3 +57,7 @@ The STM32 performs three tasks:
 STM operates at these levels to provide power for the microcontroller and GPIO logic levels.
 * VDD = 3.3V
 * VSS = GND
+
+---
+
+![Keyboard Schematic](Screenshot 2026-03-16 172959.png)
