@@ -60,4 +60,4 @@ STM operates at these levels to provide power for the microcontroller and GPIO l
 
 ---
 
-![Keyboard Schematic](Screenshot 2026-03-16 172959.png)
+![Keyboard Schematic](https://github.com/khuntiasmriti/diy-keyboard/blob/main/keyboard%20%5B20260207%2C%2019-08-54%5D.pdsprj)
